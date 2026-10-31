@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trionixautomation.com/sitemap.xml
